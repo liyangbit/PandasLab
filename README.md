@@ -4,7 +4,7 @@
 
 内容框架初步如下：
 
-![](https://tva1.sinaimg.cn/large/e6c9d24egy1gzya35x6d6j20u015vgpb.jpg)
+![](https://tva1.sinaimg.cn/large/e6c9d24egy1gzyvfvp9izj20u01a2ae7.jpg)
 
 「图解Pandas」系列，视频会先在 微信视频号「Python数据之道」发布，配套的文章内容会在 微信公众号「Python数据之道」发布，与视频内容配套的源代码则存放在本仓库中。
 
