@@ -4,6 +4,7 @@
   - [内容框架](#内容框架)
   - [已发布内容](#已发布内容)
   - [源代码](#源代码)
+
 ## 内容框架
 
 为了能够生动、形象的学习 Pandas，我打算制作一系列「图解Pandas」的内容，跟大家以动态图片、视频等方式来讲解 Pandas 的基础知识，方便大家快速的掌握这些知识。
@@ -18,9 +19,8 @@
 
 目前已发布内容如下：
 
-- [图解Pandas-内容框架介绍](https://mp.weixin.qq.com/s/gh063BUAM90vFhy6ZLaznw)
-
-- 图文01-数据结构介绍
+- [图文00-《图解Pandas》内容框架介绍](https://mp.weixin.qq.com/s/gh063BUAM90vFhy6ZLaznw)
+- [图文01-数据结构介绍](https://mp.weixin.qq.com/s/H9kJf9zJU7ys6esr0DBhHg)
 
 ## 源代码
 
