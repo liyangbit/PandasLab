@@ -11,7 +11,9 @@
 
 内容框架初步如下：
 
-![](https://tva1.sinaimg.cn/large/e6c9d24egy1gzyvfvp9izj20u01a2ae7.jpg)
+![](https://tva1.sinaimg.cn/large/e6c9d24egy1h08ft5hxkkj20xs0u076r.jpg)
+
+<!-- ![](https://tva1.sinaimg.cn/large/e6c9d24egy1gzyvfvp9izj20u01a2ae7.jpg) -->
 
 ## 已发布内容
 
@@ -19,7 +21,7 @@
 
 目前已发布内容如下：
 
-- [图文00-《图解Pandas》内容框架介绍](https://mp.weixin.qq.com/s/gh063BUAM90vFhy6ZLaznw)
+- [《图解Pandas》内容框架介绍](https://mp.weixin.qq.com/s/gh063BUAM90vFhy6ZLaznw)
 - [图文01-数据结构介绍](https://mp.weixin.qq.com/s/H9kJf9zJU7ys6esr0DBhHg)
 
 ## 源代码

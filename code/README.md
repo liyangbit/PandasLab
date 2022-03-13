@@ -6,3 +6,4 @@
 |代码文件名称|下载链接|
 |-------|---------|
 |001-data-structure.ipynb|https://url28.ctfile.com/f/23159928-553366531-27f79a （访问密码：2021）|
+|002-create-data.ipynb|https://url28.ctfile.com/f/23159928-554384804-164936 （访问密码：2021）|
