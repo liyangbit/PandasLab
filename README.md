@@ -26,6 +26,8 @@
 - [图文02-创建数据对象](https://mp.weixin.qq.com/s/tH8bc20DvhA7i8HDlWv0uQ)
 - [图文03-读取和存储Excel文件](https://mp.weixin.qq.com/s/fmhnE20HOBCG-AGh6_lrxA)
 - [图文04-常见的数据访问](https://mp.weixin.qq.com/s/yyT9okzlbb-f7P9yGeQPQQ)
+- [图文05-常见的数据运算](https://mp.weixin.qq.com/s/-9aZN6VW8x9Q_SYzz__dSA)
+
 
 ## 源代码
 

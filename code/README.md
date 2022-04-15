@@ -9,4 +9,5 @@
 |03|003|003-read-excel.ipynb|https://url28.ctfile.com/f/23159928-560938757-c9f24e （访问密码：2021）|
 |03|004|004-to-excel.ipynb|https://url28.ctfile.com/f/23159928-560938768-b4e610 （访问密码：2021）|
 |04|006|005-data-view.ipynb| https://url28.ctfile.com/f/23159928-563052315-30b2b7 （访问密码：[点击获取](https://mp.weixin.qq.com/s/yyT9okzlbb-f7P9yGeQPQQ) ）|
-|05|006<br>007<br>008|006-008-data-operation.ipynb|https://url28.ctfile.com/f/23159928-567604699-b4afb7|
+|05|006<br>007<br>008|006-008-data-operation.ipynb|https://url28.ctfile.com/f/23159928-567604699-b4afb7 （访问密码：[点击获取](https://mp.weixin.qq.com/s/-9aZN6VW8x9Q_SYzz__dSA) ）|
+
