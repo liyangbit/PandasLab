@@ -27,6 +27,8 @@
 - [图文03-读取和存储Excel文件](https://mp.weixin.qq.com/s/fmhnE20HOBCG-AGh6_lrxA)
 - [图文04-常见的数据访问](https://mp.weixin.qq.com/s/yyT9okzlbb-f7P9yGeQPQQ)
 - [图文05-常见的数据运算](https://mp.weixin.qq.com/s/-9aZN6VW8x9Q_SYzz__dSA)
+- [图文06-常见的数学计算](https://mp.weixin.qq.com/s/fN4gc9PyzwN3Y4nyzSgqdw)
+
 
 
 ## 源代码
