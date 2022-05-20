@@ -28,7 +28,7 @@
 - [图文04-常见的数据访问](https://mp.weixin.qq.com/s/yyT9okzlbb-f7P9yGeQPQQ)
 - [图文05-常见的数据运算](https://mp.weixin.qq.com/s/-9aZN6VW8x9Q_SYzz__dSA)
 - [图文06-常见的数学计算](https://mp.weixin.qq.com/s/fN4gc9PyzwN3Y4nyzSgqdw)
-
+- [图文07-常见的数据统计](https://mp.weixin.qq.com/s/6YU7OPzH9RI6K1t4FIv1dA)
 
 
 ## 源代码
