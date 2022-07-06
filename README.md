@@ -9,11 +9,15 @@
 
 为了能够生动、形象的学习 Pandas，我打算制作一系列「图解Pandas」的内容，跟大家以动态图片、视频等方式来讲解 Pandas 的基础知识，方便大家快速的掌握这些知识。
 
-内容框架初步如下：
+**内容框架初步如下：**
 
-![](https://tva1.sinaimg.cn/large/e6c9d24egy1h08ft5hxkkj20xs0u076r.jpg)
+<!-- ![](https://tva1.sinaimg.cn/large/e6c9d24egy1h08ft5hxkkj20xs0u076r.jpg) -->
+
+![](https://tva1.sinaimg.cn/large/e6c9d24egy1h3x6bvxey2j20u019stdl.jpg)
 
 <!-- ![](https://tva1.sinaimg.cn/large/e6c9d24egy1gzyvfvp9izj20u01a2ae7.jpg) -->
+
+上图中，有图文和视频编号的，是代表已经完成并发布的内容，如“图文06”、“视频026” 等。
 
 ## 已发布内容
 
@@ -29,6 +33,7 @@
 - [图文05-常见的数据运算](https://mp.weixin.qq.com/s/-9aZN6VW8x9Q_SYzz__dSA)
 - [图文06-常见的数学计算](https://mp.weixin.qq.com/s/fN4gc9PyzwN3Y4nyzSgqdw)
 - [图文07-常见的数据统计](https://mp.weixin.qq.com/s/6YU7OPzH9RI6K1t4FIv1dA)
+- [图文08-常见的数据筛选](https://mp.weixin.qq.com/s/0sh236_cQ81ECve4tr-Uiw)
 
 
 ## 源代码
