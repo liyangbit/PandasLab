@@ -13,6 +13,6 @@
 |06|009<br>010|009-010-data-math-calculation.ipynb| https://url28.ctfile.com/f/23159928-572198531-501c75 （访问密码：[点击获取](https://mp.weixin.qq.com/s/fN4gc9PyzwN3Y4nyzSgqdw) ）|
 |07|011-015|011-015-data-statistics.ipynb| https://url28.ctfile.com/f/23159928-580934914-c217c2 （访问密码：[点击获取](https://mp.weixin.qq.com/s/6YU7OPzH9RI6K1t4FIv1dA) ）|
 |08|016-028|016-028-data-select.ipynb| https://url28.ctfile.com/f/23159928-607930242-413eee （访问密码： [点击获取](https://mp.weixin.qq.com/s/0sh236_cQ81ECve4tr-Uiw) ）|
-|09|029-034|029-034-data-na.ipynb| 待更新 |
+|09|029-034|029-034-data-na.ipynb| https://url28.ctfile.com/f/23159928-652349999-cb03a0 （访问密码： [点击获取](https://mp.weixin.qq.com/s/lSF9paVzunMTj8lZ3Yu3pw)）|
 
 
