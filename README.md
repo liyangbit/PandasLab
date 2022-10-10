@@ -35,6 +35,7 @@
 - [图文07-常见的数据统计](https://mp.weixin.qq.com/s/6YU7OPzH9RI6K1t4FIv1dA)
 - [图文08-常见的数据筛选](https://mp.weixin.qq.com/s/0sh236_cQ81ECve4tr-Uiw)
 - [图文09-常见的缺失值处理](https://mp.weixin.qq.com/s/lSF9paVzunMTj8lZ3Yu3pw)
+- [图文10-数据合并操作](https://mp.weixin.qq.com/s/jK5xLyCe9Q1Q7AyR8nNc5A)
 
 ## 源代码
 
