@@ -36,6 +36,7 @@
 - [图文08-常见的数据筛选](https://mp.weixin.qq.com/s/0sh236_cQ81ECve4tr-Uiw)
 - [图文09-常见的缺失值处理](https://mp.weixin.qq.com/s/lSF9paVzunMTj8lZ3Yu3pw)
 - [图文10-数据合并操作](https://mp.weixin.qq.com/s/jK5xLyCe9Q1Q7AyR8nNc5A)
+- [图文11-Groupby分组操作](https://mp.weixin.qq.com/s/_oyjjLMjBRuE9iZZyoIGmA)
 
 ## 源代码
 
